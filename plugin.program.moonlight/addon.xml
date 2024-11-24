@@ -1,0 +1,14 @@
+<addon id="plugin.program.moonlight"
+       name="Moonlight Launcher"
+       version="1.0.0"
+       provider-name="YourName">
+    <extension point="xbmc.python.pluginsource" library="default.py" />
+    <extension point="xbmc.addon.metadata">
+        <summary>Custom Moonlight Launcher for Kodi</summary>
+        <description>
+            This add-on launches Moonlight with predefined PC and app settings.
+        </description>
+        <language>python</language>
+        <platform>all</platform>
+    </extension>
+</addon>

@@ -1,0 +1,4 @@
+<settings>
+    <setting id="hostname" type="string" label="PC Hostname or IP" default="ncase" />
+    <setting id="app" type="string" label="App to Stream" default="Steam Big Picture" />
+</settings>
